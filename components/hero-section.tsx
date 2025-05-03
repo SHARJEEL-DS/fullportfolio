@@ -12,7 +12,7 @@ export default function HeroSection() {
         <div className="flex flex-col items-center gap-4 text-center">
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5 }}>
             <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none">
-              Hi, I&apos;m <span className="text-primary">John Doe</span>
+              Hi, I&apos;m <span className="text-primary">Sharjeel Sohail</span>
             </h1>
           </motion.div>
           <motion.div

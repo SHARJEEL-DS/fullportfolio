@@ -24,7 +24,7 @@ export default function AboutSection() {
               Full Stack Developer with a Passion for Creating
             </h2>
             <p className="text-muted-foreground md:text-xl">
-              I'm a full stack developer with over 5 years of experience building web applications. I specialize in
+              I'm a full stack developer with over  years of experience building web applications. I specialize in
               JavaScript, React, Node.js, and modern web technologies.
             </p>
             <div className="space-y-4">
@@ -48,7 +48,7 @@ export default function AboutSection() {
             <div className="relative h-[400px] w-[400px] overflow-hidden rounded-full border-4 border-primary">
               <Image
                 src="/placeholder.svg?height=400&width=400"
-                alt="John Doe"
+                alt="Sharjeel Sohail"
                 fill
                 className="object-cover"
                 priority

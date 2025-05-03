@@ -9,19 +9,19 @@ import Footer from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "John Doe | Full Stack Developer",
-  description: "Professional portfolio of John Doe, a full stack developer specializing in modern web technologies.",
+  title: "Sharjeel Sohail | Full Stack Developer",
+  description: "Professional portfolio of Sharjeel Sohail, a full stack developer specializing in modern web technologies.",
   openGraph: {
-    title: "John Doe | Full Stack Developer",
-    description: "Professional portfolio of John Doe, a full stack developer specializing in modern web technologies.",
-    url: "https://johndoe.dev",
-    siteName: "John Doe Portfolio",
+    title: "Sharjeel Sohail | Full Stack Developer",
+    description: "Professional portfolio of Sharjeel Sohail, a full stack developer specializing in modern web technologies.",
+    url: "https://Sharjeel Sohail.dev",
+    siteName: "Sharjeel Sohail Portfolio",
     images: [
       {
         url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "John Doe - Full Stack Developer",
+        alt: "Sharjeel Sohail - Full Stack Developer",
       },
     ],
     locale: "en_US",

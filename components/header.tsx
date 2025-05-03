@@ -30,7 +30,7 @@ export default function Header() {
             transition={{ duration: 0.5 }}
             className="font-bold text-xl"
           >
-            JD<span className="text-primary">.</span>
+            SS<span className="text-primary">.</span>
           </motion.div>
         </Link>
 

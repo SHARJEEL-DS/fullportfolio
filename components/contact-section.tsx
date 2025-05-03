@@ -69,7 +69,7 @@ export default function ContactSection() {
               </div>
               <div>
                 <h3 className="font-semibold">Email</h3>
-                <p className="text-muted-foreground">hello@johndoe.dev</p>
+                <p className="text-muted-foreground">Sharjeelsohail697@gmail.com </p>
               </div>
             </div>
             <div className="flex items-center gap-4">
@@ -78,7 +78,7 @@ export default function ContactSection() {
               </div>
               <div>
                 <h3 className="font-semibold">Phone</h3>
-                <p className="text-muted-foreground">+1 (555) 123-4567</p>
+                <p className="text-muted-foreground">03004295718</p>
               </div>
             </div>
             <div className="flex items-center gap-4">
@@ -87,7 +87,7 @@ export default function ContactSection() {
               </div>
               <div>
                 <h3 className="font-semibold">Location</h3>
-                <p className="text-muted-foreground">San Francisco, CA</p>
+                <p className="text-muted-foreground">Lahore, Pakistan</p>
               </div>
             </div>
           </motion.div>
