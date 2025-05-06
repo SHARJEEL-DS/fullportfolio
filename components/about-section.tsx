@@ -47,7 +47,7 @@ export default function AboutSection() {
           >
             <div className="relative h-[400px] w-[400px] overflow-hidden rounded-full border-4 border-primary">
               <Image
-                src="/placeholder.svg?height=400&width=400"
+                src="/th.jpg"
                 alt="Sharjeel Sohail"
                 fill
                 className="object-cover"
